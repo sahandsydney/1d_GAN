@@ -9,6 +9,6 @@ Keywords: 'GAN, WGAN, Wasserstein GAN, Vanilla GAN, one dimensional'
 
 Author: 'Ramona Merkl'
 
-See also: 'optional: listing related Quantlets or Github code'
+See also: 'GANTimeSeries'
 
 Submitted:  'June 2021'
