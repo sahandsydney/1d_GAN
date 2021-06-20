@@ -1,6 +1,6 @@
 Name of Quantlet: '1d_GAN'
 
-Published in: 'MANDATORY!'
+Published in: 'Metis'
 
 Description: 'Application of Generative Adversarial Networks to approximate a one dimensional standard normal distribution. Both Vanilla Gan 
               and Wassersetin GAN are tested for different starting distributions and visualized.'
