@@ -1,19 +1,14 @@
-Name of Quantlet: 'MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...'
+Name of Quantlet: '1d_GAN'
 
 Published in: 'MANDATORY!'
 
-Description: 'MANDATORY!'
+Description: 'Application of Generative Adversarial Networks to approximate a one dimensional standard normal distribution. Both Vanilla Gan 
+              and Wassersetin GAN are tested for different starting distributions and visualized.'
 
-Keywords: 'MANDATORY! You need at least 5 keywords' 
+Keywords: 'GAN, WGAN, Wasserstein GAN, Vanilla GAN, one dimensional' 
 
-Author: 'MANDATORY'
+Author: 'Ramona Merkl'
 
 See also: 'optional: listing related Quantlets or Github code'
 
-Submitted:  'optional: e.g. 01. Jan 2019, John Doe'
-
-Datafile: 'optional: for your data sets - delete if not used'
-
-Input: 'optional'
-
-Output:  'optional'
+Submitted:  'June 2021'
